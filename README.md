@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @se3d3r
-- 👀 I’m interested in ... nothing
-- 🌱 I’m currently learning ... to code
 - 💞️ Hippidy hoppidy, your code is now my property.
 
 <!---
